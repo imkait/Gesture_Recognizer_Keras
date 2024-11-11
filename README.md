@@ -1,3 +1,8 @@
+Demo
+
+[![IMAGE ALT TEXT HERE](https://img.youtube.com/vi/LpPG55cGgfg/0.jpg)](https://www.youtube.com/watch?v=LpPG55cGgfg)
+
+
 01_collect_data.py:  
 使用Mediapipe的手部檢測(Hand Landmarker)蒐集資料
 
